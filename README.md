@@ -8,6 +8,7 @@ Scripts en Python para transformar datos biológicos de **UniProt** en formato J
   
 
 ## 🚀 Ejemplo de uso
+Ubicar los archivos de prueba/ejemplo en la misma carpeta donde se correra la rutina de Python
 ```bash
 python uniprot_json_a_tsv.py
 
